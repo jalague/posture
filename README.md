@@ -19,14 +19,14 @@ Predicting who is prone to poor posture and how they can avoid back pain
 
 ## Data Processing
 - Variables were cleaned and encoded from strings to ordinal and dummy variables
-More can be found in [cleaning.ipynb](blob/master/eda.ipynb)
+More can be found in [cleaning.ipynb](cleaning.ipynb)
 
 ## Data Exploration
 - Respondents ranged in age from to 89! Although a majority were around the age of 22, were female, and lived in the U.S.A
-More can be found in [eda.ipynb](blob/master/eda.ipynb)
+More can be found in [eda.ipynb](eda.ipynb)
 
 
 ## Data Analysis
 - Used Logistic Regress, Random Forests, KNN, and ordinal linear regression to create prediction models for which people have poor posture, frequent back pain, how much the exercise, and more.
-More can be found in [analysis.ipynb](blob/master/eda.ipynb)
+More can be found in [analysis.ipynb](analysis.ipynb)
 
